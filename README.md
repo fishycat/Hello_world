@@ -6,4 +6,6 @@ Manifest By: JAB..
 Working with the “Processing” API (Application Programming Interface)    
 Goals to familiarize myself with Processing in a attempted to building towards a better understanding of javascript. strange but works for me in my learning process.
 
+
+test of different savepoint, or I suppose a type of brance or mybe even a intersection.
 */
